@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
+    "meta_author": "Jhon Murcia",
     "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "Jhon Murcia",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "bio": "Frontend Developer y experto en Facebook Ads, creando experiencias web impactantes que convierten visitantes en ventas."
   }
 }
