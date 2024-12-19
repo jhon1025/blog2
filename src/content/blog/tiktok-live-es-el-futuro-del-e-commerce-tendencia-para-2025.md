@@ -1,13 +1,13 @@
 ---
 title: '¿TikTok Live, el futuro del E-commerce?'
-description: 'Explora los cinco pilares fundamentales que caracterizan a los e-commerces más rentables del mercado. Aprende a implementar estas estrategias efectivas para asegurar el éxito y la sostenibilidad de tu negocio en línea.'
+description: 'Aprende cómo TikTok Live nos ayudó a vender nuestro inventario y descubrir una nueva tendencia en e-commerce.'
 pubDate: '2024-12-16T01:09:01.514Z'
 heroImage: '/videotiktoklive.webp'
 categories: ['e-commerce']
 tags: ['e-commerce']
 author: '["Jhon Murcia"]'
 ---
- Liquidamos nuestro inventario en tiempo récord
+ ## Liquidamos nuestro inventario en tiempo récord
 
 Hace poco, mi esposa y yo nos enfrentamos a un problema común para muchos emprendedores: necesitábamos liquidar un inventario de productos de nuestra tienda online. Teníamos pocas unidades de cada referencia, así que pagar por pauta en Facebook Ads, uno de nuestros principales canales publicitarios, simplemente no valía la pena.
 
