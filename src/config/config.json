@@ -1,26 +1,38 @@
 {
   "site": {
-    "title": "Jhon Murcia ",
+    "title": "Jhon Murcia | Desarrollo Web, Automatización y Meta Ads",
     "base_url": "https://www.jhonmurcia.com",
     "base_path": "/",
     "favicon": "/faviconJhon.png",
     "logoLight": "/logoNegro.png",
     "logoDark": "/logoBlanco.png",
-    "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "lang": "es",
+    "description": "Jhon Murcia es desarrollador web y consultor en marketing digital especializado en landing pages, e-commerce, automatización y campañas de Meta Ads para emprendedores y negocios digitales en Latinoamérica.",
     "pageSize": 6
   },
   "features": {
-    "youtube": false,
+    "youtube": true,
     "dark_mode": true
   },
   "metadata": {
     "meta_author": "Jhon Murcia",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_description": "Servicios de desarrollo web, diseño de landing pages, e-commerce en Shopify, automatización de ventas y gestión profesional de campañas en Meta Ads. Trabajo con emprendedores, startups y negocios digitales.",
+    "meta_keywords": [
+      "desarrollador web en Cali",
+      "landing pages",
+      "tiendas online",
+      "Shopify Colombia",
+      "Meta Ads",
+      "Facebook Ads",
+      "automatización de ventas",
+      "marketing digital",
+      "Uconex",
+      "desarrollo web a medida"
+    ]
   },
   "author": {
     "name": "Jhon Murcia",
     "avatar": "/jhonAvatar3.jpg",
-    "bio": "Frontend Developer y experto en Facebook Ads, creando experiencias web impactantes que convierten visitantes en ventas."
+    "bio": "Desarrollador Web y consultor en marketing digital. Fundador de Uconex. Especialista en landing pages, e-commerce, automatización y campañas de Meta Ads. Ayudo a emprendedores y negocios digitales a crecer con tecnología y estrategias de alto impacto."
   }
 }
